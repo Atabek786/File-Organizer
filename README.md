@@ -1,7 +1,13 @@
 # File Organizer v0.1
 
-![Image 1](images/1.png) ![Image 2](images/2.png) ![Image 3](images/3.png)
-![Image 4](images/4.png) ![Image 5](images/5.png)
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="images/1.png" width="30%" />
+    <img src="images/2.png" width="30%" />
+    <img src="images/3.png" width="30%" />
+    <img src="images/4.png" width="30%" />
+    <img src="images/5.png" width="30%" />
+</div>
+
 
 ## Description
 
