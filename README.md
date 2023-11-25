@@ -1,7 +1,7 @@
 # File Organizer v0.1
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="images/1.png" width="55%" />
+    <img src="images/1.png" width="60%" />
     <img src="images/2.png" width="35%" />
     <img src="images/3.png" width="35%" />
     <img src="images/4.png" width="35%" />
