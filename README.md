@@ -1,6 +1,7 @@
 # File Organizer v0.1
 
-| ![1](images/1.png) | ![2](images/2.png) | ![3](images/3.png) | ![4](images/4.png) | ![5](images/5.png) |
+![Image 1](images/1.png) ![Image 2](images/2.png) ![Image 3](images/3.png)
+![Image 4](images/4.png) ![Image 5](images/5.png)
 
 ## Description
 
