@@ -1,6 +1,6 @@
 # File Organizer v0.1
 
-| ![Organizing Files](images/organizing_files.png) | ![Reorganizing Files](images/reorganizing_files.png) |
+| ![1](images/1.png) | ![2](images/2.png) | ![3](images/3.png) | ![4](images/4.png) | ![5](images/5.png) |
 
 ## Description
 
