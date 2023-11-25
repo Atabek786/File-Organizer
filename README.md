@@ -40,5 +40,5 @@ File Organizer v0.1 is a simple Python-based GUI application built using the Tki
    ```
 ## License
 
-This project is licensed under the LGPL-2.1 license v2.1.
+This project is licensed under the LGPL-2.1 license.
 
